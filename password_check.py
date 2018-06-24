@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #Quick Script to Check for Password Hash/Hint Matches
 #Combined list hint+passwords from:
-#http://stricture-group.com/files/adobe-top100.txt
+#https://github.com/morontt/symfobrute/blob/master/adobe-top100.txt
 #http://web.mit.edu/zyan/Public/adobe_sanitized_passwords_with_bad_hints.txt
 
 hashcheck = open('hashlist.txt','r')
